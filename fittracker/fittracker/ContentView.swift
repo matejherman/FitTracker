@@ -8,17 +8,22 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    let apiManager = APIManager()
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            
+            Text("Zde se stahuji cviky")
         }
         .padding()
+        .task{
+            await apiManager.fetchByExercise(Exercise: "bench press")
+        }
     }
 }
 
 #Preview {
+    
     ContentView()
 }
