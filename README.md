@@ -9,9 +9,11 @@ FitTracker is iOS application built using Swift and SwiftUI. Main purpose of the
 * **API:** RESTful API integration (ExerciseDB)
 
 ## Visuals
-<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/f64e4cc2-d567-4afe-845e-f07b1d185de2" />
-
-<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/0d2cb2e0-2d96-4247-a6a7-8c541099a449" />
+<p align="center">
+  <img width="300" alt="FitTracker Dashboard" src="https://github.com/user-attachments/assets/f64e4cc2-d567-4afe-845e-f07b1d185de2" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="300" alt="FitTracker Exercise Search" src="https://github.com/user-attachments/assets/0d2cb2e0-2d96-4247-a6a7-8c541099a449" />
+</p>
 
 
 ## Installation
