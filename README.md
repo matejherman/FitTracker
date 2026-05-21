@@ -10,9 +10,13 @@ FitTracker is iOS application built using Swift and SwiftUI. Main purpose of the
 
 ## Visuals
 <p align="center">
-  <img width="300" alt="FitTracker Dashboard" src="https://github.com/user-attachments/assets/f64e4cc2-d567-4afe-845e-f07b1d185de2" />
+  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/704c2861-d497-4ccf-be3e-bed24069e047" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="300" alt="FitTracker Exercise Search" src="https://github.com/user-attachments/assets/0d2cb2e0-2d96-4247-a6a7-8c541099a449" />
+  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/f01fbeb0-526f-4c11-8df4-ac52d71b91f1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/297cbb44-9e58-4708-b14f-bba2a057647d" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/ec03ff1b-c327-459f-b953-5ba147c8d01b" />
 </p>
 
 
